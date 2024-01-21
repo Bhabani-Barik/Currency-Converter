@@ -9,6 +9,7 @@ The exchange rate gives the relative value of one currency against another curre
 * CSS
 * Javascript
 * Fetch API
+
 **Hosted on** : netlify .
   
 
